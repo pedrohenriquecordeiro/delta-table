@@ -1,1 +1,1 @@
-Repositorio para pratica com a biblioteca delta table do python
+Repositório para prática com a biblioteca delta table do python
